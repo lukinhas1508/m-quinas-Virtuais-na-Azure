@@ -58,7 +58,7 @@ O SLA define os níveis mínimos de serviço garantidos pela Microsoft, geralmen
 
 ---
 
-## 📎 Links Úteis
+##  Links Úteis
 
 - [Documentação oficial do Azure](https://learn.microsoft.com/pt-br/azure/)
 - [Preços e SLA do Azure](https://azure.microsoft.com/pt-br/support/legal/sla/)
@@ -66,7 +66,8 @@ O SLA define os níveis mínimos de serviço garantidos pela Microsoft, geralmen
 
 ---
 
-## 👨‍💻 Autor
+##  Autor
 
 **Lucas Dias Bernardes**  
+
 Estudante de Ciência da Computação | UNIP
